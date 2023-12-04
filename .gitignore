@@ -1,0 +1,4 @@
+# For .md file
+*.md
+index.md
+contoh-soal/*.md
